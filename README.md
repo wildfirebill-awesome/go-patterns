@@ -1,4 +1,5 @@
 <p align="center">
+Modified by [wildfirebill](https://github.com/wildfirebill)
   <img src="/gopher.png" height="400">
   <h1 align="center">
     Go Patterns
